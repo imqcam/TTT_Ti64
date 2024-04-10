@@ -7,7 +7,7 @@ This version implemented by: Bryan Webler, Carnegie Mellon University. Contact: 
 
 The initial developer was Andrew Huck during his time as PhD student Carnegie Mellon University. Contact: ahuck@alumni.cmu.edu
 
-There are three files:
+The files are:
 
 1.   TTT_Ti6Al4V.ipynb - this is a Jupyter notebook containing the basic code to open a thermal history file and run the model.
 2.   NGFunctions.py - this file contains the model physics, it must be in the same folder as the notebook
