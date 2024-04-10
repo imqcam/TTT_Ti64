@@ -13,7 +13,7 @@ The files are:
 2.   NGFunctions.py - this file contains the model physics, it must be in the same folder as the notebook
 3.   SinglePointSTK.py - This file contains functions that execute the model, it must be in the same folder as the notebook
 4.   sample_z_time_temp.csv - This is a sample input file, it contains time/temperature data for every position. This file is for one position coordinate (z).
-5.   preprint_Location_dependent_phase_transformation_kinetics_during_laser_wire_deposition_additive_manufacturing_of_Ti6Al4V.pdf - This is a preprint of a manuscript that details the model phyiscs and comparison to experimental data.
+5.   preprint_Location_dependent_phase_transformation_kinetics_during_laser_wire_deposition_additive_manufacturing_of_Ti6Al4V.pdf - This is a preprint of a manuscript that details the model phyiscs and comparison to experimental data. This article has not yet been peer reviewed.  Please do not disseminate outside of the IMQCAM team.
 
 The model requires a position/time/temperature history. This must be supplied as a *.csv file with position in meters, time in seconds, and temperature in Celsius. The model is currently configured for one position dimension.
 
